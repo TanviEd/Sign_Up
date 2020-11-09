@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sign Up</string>
+    <array name="bok">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Custom</item>
+    </array>
+</resources>
